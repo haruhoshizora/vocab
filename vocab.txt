@@ -1,0 +1,180 @@
+noun - word that names a person; place; thing; or idea
+verb - word that describes an action
+adjective - word that describes a noun
+adverb - word that describes a verb
+omit - to fail to include or mention
+offset - initial stage
+synonym - precisely or nearly the same as another word
+analog - similar but for a different type or category
+coerced - to be forced
+tangible - possible to touch
+perceive - become aware of something through senses; such as seeing or hearing
+perception - process of perceiving something with the senses
+intellect - the capacity for knowledge and understanding
+obtuse - lacking quickness of perception or intellect
+preceding - previous; going before
+recursive - repeating process; a programming function that call itself
+conceptual - relating to an idea or a concept
+periphery - line that forms the boundary of an area; a perimeter
+sophisticated - complex or complicated; having or showing much worldly knowledge or cultural refinement
+refine - take to pure state
+ought - to indicate obligation or duty
+obligation - social; legal; or moral requirement; such as a duty; contract; or promise; that compels one to follow or avoid a particular course of action
+illustrate - to clarify or explain
+intance - specific case or occurrence that serves as an example or illustration of a broader concept
+alter - to change or make different
+redundant - exceeding what is necessary or natural
+cryptic - having hidden meaning
+concise - expressing much in few words
+notation - express formulas; operations; and concepts in a concise and structured way
+idiom - meaning cannot be understood from the literal meanings of the individual words
+concatenate - connect or link in a series or chain
+composed - calm
+consist - to be made up; composed of specific things or people
+homogeneous - same or similar nature or kind
+generalize - to make a broad statement or conclusion based on specific examples or facts
+lexicographic order - ascending order in ascii
+escort - person; often a prostitute; who is hired to spend time with another as a companion
+cavalier - a gentleman
+remark - express briefly or casually as a comment
+confine - keep within bounds; restrict
+servitude - lack of personal freedom
+liberties - condition of being free from confinement; servitude; or forced labor
+requisite - necessary
+characteristic - a feature that helps to distinguish a person or thing
+likelihood - state of being probable
+tendency - characteristic likelihood
+stealthy - acting with quiet
+creep - move stealthily
+oversight - unintentional mistake
+inadvertently - unintentionally; because of an oversight
+blithely - without care; concern; or consideration
+subordinate - secondary
+dialect - regional or social variety of a language
+twofold - dublicate
+duality - a quality or character of beign twofold
+rilatively - in comparison with something else
+explicit - clearly expressed
+implicit - understood though not directly expressed
+subsist - to exist
+means - position; qulity
+livelihood - living as dependent on some means of support
+occupation - activity that serves as one's ragular source of liveligood
+vocation - a ragular occupation
+preoccupied - absorbed in thought
+narcissist - someone who has an excessive preoccupation with themselves and their own needs
+constitute - part of
+discrete; distinct - constiture of separate thing
+strain - group of bacteria or viruses that are genetically distinct from other groups of the same species
+fray - to strain
+torn - past of tear; rip
+ragged - torn
+shred - long irregular strip that is cut of torn off
+tattered - torn into shreds
+dynamically - changing nature
+indeed - without a doubt
+illustrate - clarify or explain as by the use of examples or comparisons
+perhaps - maybe; possibly
+defer - delay to act
+alias - assumed name
+corresponding - the same or nearly the same relationship
+allocate - set apart for a special purpose; designate
+conventional - based on
+rather - preferably
+meticulous - showing or acting with extreme care and concern for details
+painstaking - acting with; showing; or involving great care and attention
+elaborate - planned or executed with painstaking attention to numerous parts or details
+outward - of; located on; or moving toward the outside or exterior
+formal - relating to or involving outward form or structure; often in contrast to content or meaning
+convention - formal meeting of members
+invert; inverse - turn upside down or inside out
+permit - to grant permission
+evaluate - determine the importance; estimate
+convenient - suited or favorable to one's comfort
+rational - having or experiencing the ability to reason
+companion - accommpany
+associated - joined as a companion
+commutative property - when order does not matter
+associative property - when grouping does not change the result
+distinction - act of distinguishing
+conjunction - act of joining
+abbreviated - shorter than normal
+brevity - quality or state of being brief in duration
+shorthand - an abbreviated symbolic writing method that increases speed and brevity of writing as compared to longhand
+emphasize - to give special importance or attention to something
+merely - an adverb that means "only" or "just" used to emphasize a fact or statement
+constitute - to make up or form something; such as a group or organization
+designate - to mark out and make known; to point out; to name; to indicate; to show; to distinguish by marks or description; to specify
+interinsic - already part of something
+essential - alsolute necessary or fundamental for somehting to function or exist
+imply - to express something indirectly
+tend - have the care of; watch over; look after
+impede - to slow down or make it more difficult for something to happen
+forbidding - tending or threatening to impede progress
+prohibit - act or practice of forbidding something by law
+suffice - to meet present needs or requirements
+emit - to send out or give off something
+give forth - to emit or release something
+cultivate - to improve and prepare (land)
+yield - give forth by a natural process, especially by cultivation
+padding - space between
+assignment - specific task or piece of work given to someone
+parse - break (a sentence) down into its component parts of speech with an explanation of the form, function, and syntactical relationship of each part
+myraid - constitute of very large; indefinite number
+significant - means important or having a noticeable effect
+aside - to or toward the side
+Referential - refers to something that contains a reference or points to a specific person, place, or thing
+conflict - struggle or clash between opposing forces, ideas, or interests
+oppose - actively go against something or disagree with it
+resist - fight back or refuse to accept something, often with effort
+temptation - is a desire to engage in short-term urges for enjoyment that threatens long-term goals
+conceptual - or relating to concepts or mental conception
+leap - to move quickly or suddenly
+augment - make (something already developed or well under way) greater, as in size, extent, or quantity: synonym: increase
+traverse - to travel or pass across, over, or through
+convenient - means something that is suitable for your needs and causes the least difficulty, often being easy to access or use
+opposition - act of resisting
+exert - put to use of effect
+strive - to struggle or fight forcefully
+contend - to strive in opposition or against difficulties
+cope - to contend or strive
+consent - voluntary agreement of one person to engage in a specific activity proposed by anoth
+affirmative - means expressing agreement or consent
+constituent - serving as part of a whole; component
+intrinsic - nward; internal; hence, true; genuine; real; essential; inherent; not merely apparent or accidental
+inherent - existing as an essential constituent or characteristic
+insertion - act or process of inserting
+porous - refers to a material that has many small holes
+percolate - to pass through a porous
+vex - to irritate, bother
+procedure - is a series of actions or steps followed in a specific order to accomplish a task or achieve a result
+cast - to through somehitng light wirh force
+notion - an idea
+native - being as from birth or origin
+tastement - something that serves as tangible proof or evidencea
+anticipate - means to think about or expect something that might happen in the future
+foresight - ability or action of imagining or anticipating what might happen in the future
+inception - origin
+consultant - is a professional who provides advice or services in an area of specialization
+isolate - separate somehting from other things or keep it alone
+subsequent - coming or being after something else at any time
+interpret - to explain the meaning of
+descendant - related to earlier genration
+suffice - to meet present need or requirements
+immutable - unchangeable
+propagate - breed, cultivate
+primitive - ancient, earliest, first
+cumbersome - unconvenient
+anatomy - structure of living things
+dialect - a languange that is limited to a region
+in-line - having parts arranged in a line
+leverage - using borrowed capital for invenstment
+fourthcoming - something that is about to happen or appear
+thorough - in-depth
+morph - change smoothly from one image to another by small gradual steps using computer animation techniques
+conclude - to finish or end
+infer - to conclude from evidence
+deprecated - disapprove
+ambiguously - is a manner that is not open more than one interpretation && unambiguously is is open more than one interpretation
+ancillary - providing necessary support to primary activities
+semantically - in a way that relates to the meaning of words, phrases, or symbols, or pertaining to the study of meaning
